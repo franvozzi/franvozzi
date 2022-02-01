@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Francisco Vozzi
-- 👀 I’m avaible for some IT trainee.
+- 👋 Hi, I’m Francisco Vozzi 🇦🇷.
+-  👀 I’m avaible for some IT trainee.
 - 🌱 I’m studying Bachelor of Computer Science at Universidad Empresarial Siglo 21.
 - 📫 How to reach me: -> linkedin https://bit.ly/3GkKAyD
 
