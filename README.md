@@ -1,24 +1,24 @@
-<h1>Hi, I'm Francisco</h1>
-<span>
-<h4>Currently student of Bachelor in Computer Science at Universidad Empresarial Siglo 21.</h4>
-  
-  <ul>
-    <li>I'm current learning software development on myself. My educational plataforms in use are: <a href="https://www.codecademy.com/">CodeAcademy</a>,<a href="https://platzi.com/home" Platzi</a> and YouTube.</li>
-    <li>You can reach me on my <a href="https://www.linkedin.com/in/franvozzi/">LinkedIn</a>, Twitter and e-mail.</li>
-   </ul>
- <span>
-   
-   <h4>Lenguages and tools:</h4>
-   <ul>
-     <li>JavaScript</li>
-     <li>Python</li>
-     <li>Flask</li>
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>VSC</li>
-   </ul>
-   
-   
+# About Me: Francisco Vozzi
+
+## Education:
+- Advanced studies in Computer Science at Universidad Empresarial Siglo XXI, specializing in software engineering (average grade of 7.1).
+
+## Skills and Experience:
+- Proficient in JavaScript and Python.
+- Experienced in software development methodologies such as Agile and Scrum.
+- Skilled in collaborative problem-solving and effective communication.
+- Demonstrated leadership abilities in guiding teams to successful project outcomes.
+
+## Learning Journey:
+- ### Project-Focused Learning:
+- Actively engaged in project-based learning, applying acquired skills to real-world scenarios.
+- Currently undertaking projects in backend-frontend development, and cybersecurity.
+- Continuously seeking opportunities to expand knowledge and expertise through hands-on experience.
+
+## Contact Me:
+- LinkedIn: [Francisco Vozzi](https://www.linkedin.com/in/franvozzi/)
+- Twitter: @franvozzi
+
   
 <!---
 franvozzi/franvozzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
