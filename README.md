@@ -7,7 +7,6 @@
 - Proficient in JavaScript and Python.
 - Experienced in software development methodologies such as Agile and Scrum.
 - Skilled in collaborative problem-solving and effective communication.
-- Demonstrated leadership abilities in guiding teams to successful project outcomes.
 
 ## Learning Journey:
 - ### Project-Focused Learning:
@@ -17,7 +16,6 @@
 
 ## Contact Me:
 - LinkedIn: [Francisco Vozzi](https://www.linkedin.com/in/franvozzi/)
-- Twitter: @franvozzi
 
   
 <!---
