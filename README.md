@@ -8,7 +8,7 @@ Check out my current projects: [CanchaYA](link_a_canchaya) and [Solcast](link_a_
 
 ## Education:
 
-- **Advanced studies in Computer Science** at Universidad Empresarial Siglo XXI, specializing in Software Engineering (average grade: 7.1). Expected graduation: December 2025.
+- **Computer Science** at Universidad Empresarial Siglo XXI, specializing in Software Engineering (average grade: 7.1). Expected graduation: December 2025.
 - **Associate in System Analysis**, Universidad Empresarial Siglo XXI.
 
 
